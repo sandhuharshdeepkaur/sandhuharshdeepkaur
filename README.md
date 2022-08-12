@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Harshdeepkaur<img width = "50" alt = "waving "src = "https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif")[👋]</h1>
 <h3 align="left">An Graduate Fresher looking forward to explore and meet new Technologies.</h3>
 
-
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 🔭 I’m currently working on my Github profile to look like my Furious journey towards IT & Services.
 
 - 🌱 I’m currently learning Web development and Quality Assurance.
@@ -11,6 +11,7 @@
 - 📫 How to reach me sandhhuharshdeepkaur2@gmail.com
 
 - ⚡ Fun fact - LinkedIn is way better than Instagram to start conversation.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
