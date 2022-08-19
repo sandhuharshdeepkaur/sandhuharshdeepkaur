@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Java Projects.
 
-- 📫 How to reach me sandhuharshdeepkaur2@gmail.com
+- 📫 How to reach me? Here's the way:- sandhuharshdeepkaur2@gmail.com
 
 - ⚡ Fun fact - LinkedIn is way better than Instagram to start conversation.
 
