@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://explain.ninja/wp-content/uploads/2020/02/final_-4.gif">
  
-<h3> - 🔭 I’m currently working on my Github profile to look like my Furious journey.
+- 🔭 I’m currently working on my Github profile to look like my Furious journey.
 
 - 🌱 I’m currently learning Web development and Quality Assurance.
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? Leave a mail:- sandhuharshdeepkaur2@gmail.com
 
-- ⚡ Fun fact - LinkedIn is way better than Instagram to start conversation.</h3>
+- ⚡ Fun fact - LinkedIn is way better than Instagram to start conversation.
 
 
 <h1 align="left">Connect with me:</h1>
