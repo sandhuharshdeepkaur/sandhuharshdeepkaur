@@ -20,7 +20,7 @@
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left">   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="VS Code" width="40" height="30"/> </a></a> 
+<p align="left">   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="VS Code" width="40" height="30"/> </a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <a href="https://en.wikipedia.org/wiki/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></a> 
 </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
