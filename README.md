@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Harshdeepkaur<img width = "50" alt = "waving "src = "https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif")[👋]</h1>
+<h1 align="center">Hi, I'm Harshdeepkour<img width = "50" alt = "waving "src = "https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif")[👋]</h1>
 <h2>A Graduate Fresher looking forward to explore and meet new Technologies.</h2>
 
 <img align="right" alt="Coding" width="400" src="https://explain.ninja/wp-content/uploads/2020/02/final_-4.gif">
  
 - 🔭 I’m currently working on my Github profile to look like my Furious journey.
 
-- 🌱 I’m currently learning Web development and Quality Assurance.
+- 🌱 I’m currently working as an Associate Quality Assurance Engineer.
 
 - 👯 I’m looking to collaborate on Java Projects.
 
-- 📫 How to reach me? Leave a mail:- sandhuharshdeepkaur2@gmail.com
+- 📫 How to reach me? Leave a mail:- harshdeepkoursandhu25@gmail.com
 
 - ⚡ Fun fact - LinkedIn is way better than Instagram to start conversation.
 
