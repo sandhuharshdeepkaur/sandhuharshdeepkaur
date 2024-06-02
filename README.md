@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as an Associate Quality Assurance Engineer.
 
-- 👯 I’m looking to collaborate on Java Projects.
+- 👯 I’m looking to collaborate on Robotframework projects with Python.
 
 - 📫 How to reach me? Leave a mail:- harshdeepkoursandhu25@gmail.com
 
