@@ -2,8 +2,6 @@
 <h2>A working professional looking forward to explore and meet new Technologies.</h2>
 
 <img align="right" alt="Coding" width="325" src="https://explain.ninja/wp-content/uploads/2020/02/final_-4.gif">
- 
-- 🔭 I’m currently working on my Github profile to look like my Furious journey.
 
 - 🌱 I’m currently working as an Associate Quality Assurance Engineer.
 
